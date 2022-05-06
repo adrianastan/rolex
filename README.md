@@ -11,6 +11,6 @@ Additional resources, such as lexical information prediction models will soon be
 
 If you are using RoLEX in your work, please cite:
 
-> Beáta LŐRINCZ, Elena IRIMIA$, Adriana STAN, Verginica BARBU MITITELU, **RoLEX: The development of an extended Romanian lexical dataset and its evaluation at predicting concurrent lexical information**, to appear, 2022
+> Beáta LŐRINCZ, Elena IRIMIA, Adriana STAN, Verginica BARBU MITITELU, **RoLEX: The development of an extended Romanian lexical dataset and its evaluation at predicting concurrent lexical information**, to appear, 2022
 
 
