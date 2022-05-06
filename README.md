@@ -1,10 +1,12 @@
 # RoLEX
 ## An extended Romanian lexical dataset
 
+The lexicon developed in ReTeRom, RoLEX, is a resource with 330,866 entries of the following tabular form: word_form lemma MSD_tag syllabification lexical_stress phonetic_transcription
+It is a thoroughly manually validated and corrected resource and represents the most extended phonological validated dataset available at this point for Romanian.
 
-The dataset was developed mainly for speech processing applications, yet its applicability extends beyond this domain. *RoLEX* includes over 330,000 curated entries with information regarding: lemma, morphosyntactic description, syllabification, lexical stress and phonemic transcription.  
-The process of selecting the list of word entries and semi-automatically annotating the complete lexical information associated with each of the entries is thoroughly described.
+RoLEX is based on the textual component of an assembled speech corpus containing data coming from the Romanian Wikipedia articles, news, interviews on contemporary subjects, talk shows, spontaneous speech, tales, novels, etc. The data set’s completion with morphosyntactic and lemma information is based on a general, largescale (over 1,1 million entries) lexicon of the Romanian language under development at RACAI, called TBL.TBL was also used to include in RoLEX all the morphological variants of the lemmas encountered in the speech corpus. The other lexical information (syllabification, lexical stress, phonetic transcription) were partially based on RoSyllabiDict (Barbu, 2008) and MaRePhor (Toma et al., 2017), and partially automatically predicted with the front-end tool developed in (Stan et al. 2011). The aggregated lexicon underwent a carefully designed automatic and manual correction process.
 
+---
 Additional resources, such as lexical information prediction models will soon be added. 
 
 If you are using RoLEX in your work, please cite:
